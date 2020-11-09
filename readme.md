@@ -1,9 +1,6 @@
 
-<<<<<<< HEAD
-=======
 Hola mundo
 
->>>>>>> f937941daa4b1eeeed2f6a9104578f0403e69efb
 GERSON AGUIRRE
 BRYAN AVALOS
 RENÉ CORTEZ
